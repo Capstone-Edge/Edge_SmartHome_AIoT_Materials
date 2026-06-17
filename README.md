@@ -16,7 +16,7 @@
 
 ## 프로젝트 자료
 
-- [발표자료 보기](./presentation/발표자료.pdf)
+- [발표자료 보기](./캡스톤디자인_제출용_Edge.pdf)
 - [최종 보고서 보기](./Project_Final_Report.pdf)
 
 ## 관련 레포지토리
