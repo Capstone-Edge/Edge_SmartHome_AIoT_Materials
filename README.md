@@ -23,6 +23,7 @@
 
 - Frontend: https://github.com/Capstone-Edge/Frontend
 - Backend: https://github.com/Capstone-Edge/Backend
+- Edge: https://github.com/Capstone-Edge/Edge
 
 ---
 
